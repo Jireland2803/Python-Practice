@@ -1,0 +1,385 @@
+time_period,data_version,time_identifier,geographic_level,country_code,country_name,tlevel_pathway,sex,status,count,percent,cumulative_count,cumulative_percent
+202324,Provisional,Academic year,National,E92000001,England,Accounting,Female,Number of students,28,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Accounting,Female,Completed,25,89.3,25,89.3
+202324,Provisional,Academic year,National,E92000001,England,Accounting,Female,Completed with special consideration,1,3.6,26,92.9
+202324,Provisional,Academic year,National,E92000001,England,Accounting,Female,Not completed,2,7.1,28,100
+202324,Provisional,Academic year,National,E92000001,England,Accounting,Male,Number of students,65,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Accounting,Male,Completed,60,92.3,60,92.3
+202324,Provisional,Academic year,National,E92000001,England,Accounting,Male,Completed with special consideration,2,3.1,62,95.4
+202324,Provisional,Academic year,National,E92000001,England,Accounting,Male,Not completed,3,4.6,65,100
+202324,Provisional,Academic year,National,E92000001,England,Accounting,All,Number of students,94,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Accounting,All,Completed,86,91.5,86,91.5
+202324,Provisional,Academic year,National,E92000001,England,Accounting,All,Completed with special consideration,3,3.2,89,94.7
+202324,Provisional,Academic year,National,E92000001,England,Accounting,All,Not completed,5,5.3,94,100
+202223,Revised,Academic year,National,E92000001,England,Building Services Engineering,Female,Number of students,3,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Building Services Engineering,Female,Completed,0,0,0,0
+202223,Revised,Academic year,National,E92000001,England,Building Services Engineering,Female,Completed with special consideration,1,33.3,1,33.3
+202223,Revised,Academic year,National,E92000001,England,Building Services Engineering,Female,Not completed,2,66.7,3,100
+202324,Provisional,Academic year,National,E92000001,England,Building Services Engineering,Female,Number of students,9,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Building Services Engineering,Female,Completed,9,100,9,100
+202324,Provisional,Academic year,National,E92000001,England,Building Services Engineering,Female,Completed with special consideration,0,0,9,100
+202324,Provisional,Academic year,National,E92000001,England,Building Services Engineering,Female,Not completed,0,0,9,100
+202223,Revised,Academic year,National,E92000001,England,Building Services Engineering,Male,Number of students,205,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Building Services Engineering,Male,Completed,195,95.1,195,95.1
+202223,Revised,Academic year,National,E92000001,England,Building Services Engineering,Male,Completed with special consideration,2,1,197,96.1
+202223,Revised,Academic year,National,E92000001,England,Building Services Engineering,Male,Not completed,8,3.9,205,100
+202324,Provisional,Academic year,National,E92000001,England,Building Services Engineering,Male,Number of students,309,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Building Services Engineering,Male,Completed,261,84.5,261,84.5
+202324,Provisional,Academic year,National,E92000001,England,Building Services Engineering,Male,Completed with special consideration,7,2.3,268,86.7
+202324,Provisional,Academic year,National,E92000001,England,Building Services Engineering,Male,Not completed,41,13.3,309,100
+202223,Revised,Academic year,National,E92000001,England,Building Services Engineering,All,Number of students,208,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Building Services Engineering,All,Completed,195,93.8,195,93.8
+202223,Revised,Academic year,National,E92000001,England,Building Services Engineering,All,Completed with special consideration,3,1.4,198,95.2
+202223,Revised,Academic year,National,E92000001,England,Building Services Engineering,All,Not completed,10,4.8,208,100
+202324,Provisional,Academic year,National,E92000001,England,Building Services Engineering,All,Number of students,318,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Building Services Engineering,All,Completed,270,84.9,270,84.9
+202324,Provisional,Academic year,National,E92000001,England,Building Services Engineering,All,Completed with special consideration,7,2.2,277,87.1
+202324,Provisional,Academic year,National,E92000001,England,Building Services Engineering,All,Not completed,41,12.9,318,100
+202324,Provisional,Academic year,National,E92000001,England,Design and Development for Engineering and Manufacturing,Female,Number of students,40,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Design and Development for Engineering and Manufacturing,Female,Completed,37,92.5,37,92.5
+202324,Provisional,Academic year,National,E92000001,England,Design and Development for Engineering and Manufacturing,Female,Completed with special consideration,1,2.5,38,95
+202324,Provisional,Academic year,National,E92000001,England,Design and Development for Engineering and Manufacturing,Female,Not completed,2,5,40,100
+202324,Provisional,Academic year,National,E92000001,England,Design and Development for Engineering and Manufacturing,Male,Number of students,514,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Design and Development for Engineering and Manufacturing,Male,Completed,484,94.2,484,94.2
+202324,Provisional,Academic year,National,E92000001,England,Design and Development for Engineering and Manufacturing,Male,Completed with special consideration,12,2.3,496,96.5
+202324,Provisional,Academic year,National,E92000001,England,Design and Development for Engineering and Manufacturing,Male,Not completed,18,3.5,514,100
+202324,Provisional,Academic year,National,E92000001,England,Design and Development for Engineering and Manufacturing,All,Number of students,555,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Design and Development for Engineering and Manufacturing,All,Completed,522,94.1,522,94.1
+202324,Provisional,Academic year,National,E92000001,England,Design and Development for Engineering and Manufacturing,All,Completed with special consideration,13,2.3,535,96.4
+202324,Provisional,Academic year,National,E92000001,England,Design and Development for Engineering and Manufacturing,All,Not completed,20,3.6,555,100
+202122,Final,Academic year,National,E92000001,England,"Design, Surveying and Planning",Female,Number of students,20,z,z,z
+202122,Final,Academic year,National,E92000001,England,"Design, Surveying and Planning",Female,Completed,18,90,18,90
+202122,Final,Academic year,National,E92000001,England,"Design, Surveying and Planning",Female,Completed with special consideration,2,10,20,100
+202122,Final,Academic year,National,E92000001,England,"Design, Surveying and Planning",Female,Not completed,0,0,20,100
+202223,Revised,Academic year,National,E92000001,England,"Design, Surveying and Planning",Female,Number of students,67,z,z,z
+202223,Revised,Academic year,National,E92000001,England,"Design, Surveying and Planning",Female,Completed,65,97,65,97
+202223,Revised,Academic year,National,E92000001,England,"Design, Surveying and Planning",Female,Completed with special consideration,1,1.5,66,98.5
+202223,Revised,Academic year,National,E92000001,England,"Design, Surveying and Planning",Female,Not completed,1,1.5,67,100
+202324,Provisional,Academic year,National,E92000001,England,"Design, Surveying and Planning",Female,Number of students,107,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,"Design, Surveying and Planning",Female,Completed,95,88.8,95,88.8
+202324,Provisional,Academic year,National,E92000001,England,"Design, Surveying and Planning",Female,Completed with special consideration,3,2.8,98,91.6
+202324,Provisional,Academic year,National,E92000001,England,"Design, Surveying and Planning",Female,Not completed,9,8.4,107,100
+202122,Final,Academic year,National,E92000001,England,"Design, Surveying and Planning",Male,Number of students,180,z,z,z
+202122,Final,Academic year,National,E92000001,England,"Design, Surveying and Planning",Male,Completed,165,91.7,165,91.7
+202122,Final,Academic year,National,E92000001,England,"Design, Surveying and Planning",Male,Completed with special consideration,12,6.7,177,98.3
+202122,Final,Academic year,National,E92000001,England,"Design, Surveying and Planning",Male,Not completed,3,1.7,180,100
+202223,Revised,Academic year,National,E92000001,England,"Design, Surveying and Planning",Male,Number of students,372,z,z,z
+202223,Revised,Academic year,National,E92000001,England,"Design, Surveying and Planning",Male,Completed,352,94.6,352,94.6
+202223,Revised,Academic year,National,E92000001,England,"Design, Surveying and Planning",Male,Completed with special consideration,12,3.2,364,97.8
+202223,Revised,Academic year,National,E92000001,England,"Design, Surveying and Planning",Male,Not completed,8,2.2,372,100
+202324,Provisional,Academic year,National,E92000001,England,"Design, Surveying and Planning",Male,Number of students,572,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,"Design, Surveying and Planning",Male,Completed,546,95.5,546,95.5
+202324,Provisional,Academic year,National,E92000001,England,"Design, Surveying and Planning",Male,Completed with special consideration,2,0.3,548,95.8
+202324,Provisional,Academic year,National,E92000001,England,"Design, Surveying and Planning",Male,Not completed,24,4.2,572,100
+202122,Final,Academic year,National,E92000001,England,"Design, Surveying and Planning",All,Number of students,200,z,z,z
+202122,Final,Academic year,National,E92000001,England,"Design, Surveying and Planning",All,Completed,183,91.5,183,91.5
+202122,Final,Academic year,National,E92000001,England,"Design, Surveying and Planning",All,Completed with special consideration,14,7,197,98.5
+202122,Final,Academic year,National,E92000001,England,"Design, Surveying and Planning",All,Not completed,3,1.5,200,100
+202223,Revised,Academic year,National,E92000001,England,"Design, Surveying and Planning",All,Number of students,444,z,z,z
+202223,Revised,Academic year,National,E92000001,England,"Design, Surveying and Planning",All,Completed,422,95,422,95
+202223,Revised,Academic year,National,E92000001,England,"Design, Surveying and Planning",All,Completed with special consideration,13,2.9,435,98
+202223,Revised,Academic year,National,E92000001,England,"Design, Surveying and Planning",All,Not completed,9,2,444,100
+202324,Provisional,Academic year,National,E92000001,England,"Design, Surveying and Planning",All,Number of students,686,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,"Design, Surveying and Planning",All,Completed,647,94.3,647,94.3
+202324,Provisional,Academic year,National,E92000001,England,"Design, Surveying and Planning",All,Completed with special consideration,6,0.9,653,95.2
+202324,Provisional,Academic year,National,E92000001,England,"Design, Surveying and Planning",All,Not completed,33,4.8,686,100
+202223,Revised,Academic year,National,E92000001,England,Digital Business Services,Female,Number of students,7,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Digital Business Services,Female,Completed,7,100,7,100
+202223,Revised,Academic year,National,E92000001,England,Digital Business Services,Female,Completed with special consideration,0,0,7,100
+202223,Revised,Academic year,National,E92000001,England,Digital Business Services,Female,Not completed,0,0,7,100
+202324,Provisional,Academic year,National,E92000001,England,Digital Business Services,Female,Number of students,8,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Digital Business Services,Female,Completed,7,87.5,7,87.5
+202324,Provisional,Academic year,National,E92000001,England,Digital Business Services,Female,Completed with special consideration,0,0,7,87.5
+202324,Provisional,Academic year,National,E92000001,England,Digital Business Services,Female,Not completed,1,12.5,8,100
+202223,Revised,Academic year,National,E92000001,England,Digital Business Services,Male,Number of students,35,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Digital Business Services,Male,Completed,33,94.3,33,94.3
+202223,Revised,Academic year,National,E92000001,England,Digital Business Services,Male,Completed with special consideration,0,0,33,94.3
+202223,Revised,Academic year,National,E92000001,England,Digital Business Services,Male,Not completed,2,5.7,35,100
+202324,Provisional,Academic year,National,E92000001,England,Digital Business Services,Male,Number of students,27,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Digital Business Services,Male,Completed,25,92.6,25,92.6
+202324,Provisional,Academic year,National,E92000001,England,Digital Business Services,Male,Completed with special consideration,0,0,25,92.6
+202324,Provisional,Academic year,National,E92000001,England,Digital Business Services,Male,Not completed,2,7.4,27,100
+202223,Revised,Academic year,National,E92000001,England,Digital Business Services,All,Number of students,43,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Digital Business Services,All,Completed,41,95.3,41,95.3
+202223,Revised,Academic year,National,E92000001,England,Digital Business Services,All,Completed with special consideration,0,0,41,95.3
+202223,Revised,Academic year,National,E92000001,England,Digital Business Services,All,Not completed,2,4.7,43,100
+202324,Provisional,Academic year,National,E92000001,England,Digital Business Services,All,Number of students,35,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Digital Business Services,All,Completed,32,91.4,32,91.4
+202324,Provisional,Academic year,National,E92000001,England,Digital Business Services,All,Completed with special consideration,0,0,32,91.4
+202324,Provisional,Academic year,National,E92000001,England,Digital Business Services,All,Not completed,3,8.6,35,100
+202122,Final,Academic year,National,E92000001,England,"Digital Production, Design and Development",Female,Number of students,34,z,z,z
+202122,Final,Academic year,National,E92000001,England,"Digital Production, Design and Development",Female,Completed,33,97.1,33,97.1
+202122,Final,Academic year,National,E92000001,England,"Digital Production, Design and Development",Female,Completed with special consideration,1,2.9,34,100
+202122,Final,Academic year,National,E92000001,England,"Digital Production, Design and Development",Female,Not completed,0,0,34,100
+202223,Revised,Academic year,National,E92000001,England,"Digital Production, Design and Development",Female,Number of students,65,z,z,z
+202223,Revised,Academic year,National,E92000001,England,"Digital Production, Design and Development",Female,Completed,63,96.9,63,96.9
+202223,Revised,Academic year,National,E92000001,England,"Digital Production, Design and Development",Female,Completed with special consideration,1,1.5,64,98.5
+202223,Revised,Academic year,National,E92000001,England,"Digital Production, Design and Development",Female,Not completed,1,1.5,65,100
+202324,Provisional,Academic year,National,E92000001,England,"Digital Production, Design and Development",Female,Number of students,96,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,"Digital Production, Design and Development",Female,Completed,87,90.6,87,90.6
+202324,Provisional,Academic year,National,E92000001,England,"Digital Production, Design and Development",Female,Completed with special consideration,1,1,88,91.7
+202324,Provisional,Academic year,National,E92000001,England,"Digital Production, Design and Development",Female,Not completed,8,8.3,96,100
+202122,Final,Academic year,National,E92000001,England,"Digital Production, Design and Development",Male,Number of students,295,z,z,z
+202122,Final,Academic year,National,E92000001,England,"Digital Production, Design and Development",Male,Completed,285,96.6,285,96.6
+202122,Final,Academic year,National,E92000001,England,"Digital Production, Design and Development",Male,Completed with special consideration,2,0.7,287,97.3
+202122,Final,Academic year,National,E92000001,England,"Digital Production, Design and Development",Male,Not completed,8,2.7,295,100
+202223,Revised,Academic year,National,E92000001,England,"Digital Production, Design and Development",Male,Number of students,619,z,z,z
+202223,Revised,Academic year,National,E92000001,England,"Digital Production, Design and Development",Male,Completed,580,93.7,580,93.7
+202223,Revised,Academic year,National,E92000001,England,"Digital Production, Design and Development",Male,Completed with special consideration,7,1.1,587,94.8
+202223,Revised,Academic year,National,E92000001,England,"Digital Production, Design and Development",Male,Not completed,32,5.2,619,100
+202324,Provisional,Academic year,National,E92000001,England,"Digital Production, Design and Development",Male,Number of students,930,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,"Digital Production, Design and Development",Male,Completed,852,91.6,852,91.6
+202324,Provisional,Academic year,National,E92000001,England,"Digital Production, Design and Development",Male,Completed with special consideration,14,1.5,866,93.1
+202324,Provisional,Academic year,National,E92000001,England,"Digital Production, Design and Development",Male,Not completed,64,6.9,930,100
+202122,Final,Academic year,National,E92000001,England,"Digital Production, Design and Development",All,Number of students,331,z,z,z
+202122,Final,Academic year,National,E92000001,England,"Digital Production, Design and Development",All,Completed,320,96.7,320,96.7
+202122,Final,Academic year,National,E92000001,England,"Digital Production, Design and Development",All,Completed with special consideration,3,0.9,323,97.6
+202122,Final,Academic year,National,E92000001,England,"Digital Production, Design and Development",All,Not completed,8,2.4,331,100
+202223,Revised,Academic year,National,E92000001,England,"Digital Production, Design and Development",All,Number of students,694,z,z,z
+202223,Revised,Academic year,National,E92000001,England,"Digital Production, Design and Development",All,Completed,652,93.9,652,93.9
+202223,Revised,Academic year,National,E92000001,England,"Digital Production, Design and Development",All,Completed with special consideration,8,1.2,660,95.1
+202223,Revised,Academic year,National,E92000001,England,"Digital Production, Design and Development",All,Not completed,34,4.9,694,100
+202324,Provisional,Academic year,National,E92000001,England,"Digital Production, Design and Development",All,Number of students,1034,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,"Digital Production, Design and Development",All,Completed,946,91.5,946,91.5
+202324,Provisional,Academic year,National,E92000001,England,"Digital Production, Design and Development",All,Completed with special consideration,15,1.5,961,92.9
+202324,Provisional,Academic year,National,E92000001,England,"Digital Production, Design and Development",All,Not completed,73,7.1,1034,100
+202223,Revised,Academic year,National,E92000001,England,Digital Support Services,Female,Number of students,8,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Digital Support Services,Female,Completed,6,75,6,75
+202223,Revised,Academic year,National,E92000001,England,Digital Support Services,Female,Completed with special consideration,0,0,6,75
+202223,Revised,Academic year,National,E92000001,England,Digital Support Services,Female,Not completed,2,25,8,100
+202324,Provisional,Academic year,National,E92000001,England,Digital Support Services,Female,Number of students,21,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Digital Support Services,Female,Completed,19,90.5,19,90.5
+202324,Provisional,Academic year,National,E92000001,England,Digital Support Services,Female,Completed with special consideration,1,4.8,20,95.2
+202324,Provisional,Academic year,National,E92000001,England,Digital Support Services,Female,Not completed,1,4.8,21,100
+202223,Revised,Academic year,National,E92000001,England,Digital Support Services,Male,Number of students,183,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Digital Support Services,Male,Completed,167,91.3,167,91.3
+202223,Revised,Academic year,National,E92000001,England,Digital Support Services,Male,Completed with special consideration,5,2.7,172,94
+202223,Revised,Academic year,National,E92000001,England,Digital Support Services,Male,Not completed,11,6,183,100
+202324,Provisional,Academic year,National,E92000001,England,Digital Support Services,Male,Number of students,273,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Digital Support Services,Male,Completed,243,89,243,89
+202324,Provisional,Academic year,National,E92000001,England,Digital Support Services,Male,Completed with special consideration,7,2.6,250,91.6
+202324,Provisional,Academic year,National,E92000001,England,Digital Support Services,Male,Not completed,23,8.4,273,100
+202223,Revised,Academic year,National,E92000001,England,Digital Support Services,All,Number of students,191,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Digital Support Services,All,Completed,173,90.6,173,90.6
+202223,Revised,Academic year,National,E92000001,England,Digital Support Services,All,Completed with special consideration,5,2.6,178,93.2
+202223,Revised,Academic year,National,E92000001,England,Digital Support Services,All,Not completed,13,6.8,191,100
+202324,Provisional,Academic year,National,E92000001,England,Digital Support Services,All,Number of students,294,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Digital Support Services,All,Completed,262,89.1,262,89.1
+202324,Provisional,Academic year,National,E92000001,England,Digital Support Services,All,Completed with special consideration,8,2.7,270,91.8
+202324,Provisional,Academic year,National,E92000001,England,Digital Support Services,All,Not completed,24,8.2,294,100
+202122,Final,Academic year,National,E92000001,England,Education and Early Years,Female,Number of students,449,z,z,z
+202122,Final,Academic year,National,E92000001,England,Education and Early Years,Female,Completed,440,98,440,98
+202122,Final,Academic year,National,E92000001,England,Education and Early Years,Female,Completed with special consideration,6,1.3,446,99.3
+202122,Final,Academic year,National,E92000001,England,Education and Early Years,Female,Not completed,3,0.7,449,100
+202223,Revised,Academic year,National,E92000001,England,Education and Early Years,Female,Number of students,971,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Education and Early Years,Female,Completed,953,98.1,953,98.1
+202223,Revised,Academic year,National,E92000001,England,Education and Early Years,Female,Completed with special consideration,12,1.2,965,99.4
+202223,Revised,Academic year,National,E92000001,England,Education and Early Years,Female,Not completed,6,0.6,971,100
+202324,Provisional,Academic year,National,E92000001,England,Education and Early Years,Female,Number of students,1447,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Education and Early Years,Female,Completed,1381,95.4,1381,95.4
+202324,Provisional,Academic year,National,E92000001,England,Education and Early Years,Female,Completed with special consideration,31,2.1,1412,97.6
+202324,Provisional,Academic year,National,E92000001,England,Education and Early Years,Female,Not completed,35,2.4,1447,100
+202122,Final,Academic year,National,E92000001,England,Education and Early Years,Male,Number of students,15,z,z,z
+202122,Final,Academic year,National,E92000001,England,Education and Early Years,Male,Completed,13,86.7,13,86.7
+202122,Final,Academic year,National,E92000001,England,Education and Early Years,Male,Completed with special consideration,1,6.7,14,93.3
+202122,Final,Academic year,National,E92000001,England,Education and Early Years,Male,Not completed,1,6.7,15,100
+202223,Revised,Academic year,National,E92000001,England,Education and Early Years,Male,Number of students,49,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Education and Early Years,Male,Completed,48,98,48,98
+202223,Revised,Academic year,National,E92000001,England,Education and Early Years,Male,Completed with special consideration,1,2,49,100
+202223,Revised,Academic year,National,E92000001,England,Education and Early Years,Male,Not completed,0,0,49,100
+202324,Provisional,Academic year,National,E92000001,England,Education and Early Years,Male,Number of students,83,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Education and Early Years,Male,Completed,79,95.2,79,95.2
+202324,Provisional,Academic year,National,E92000001,England,Education and Early Years,Male,Completed with special consideration,2,2.4,81,97.6
+202324,Provisional,Academic year,National,E92000001,England,Education and Early Years,Male,Not completed,2,2.4,83,100
+202122,Final,Academic year,National,E92000001,England,Education and Early Years,All,Number of students,465,z,z,z
+202122,Final,Academic year,National,E92000001,England,Education and Early Years,All,Completed,454,97.6,454,97.6
+202122,Final,Academic year,National,E92000001,England,Education and Early Years,All,Completed with special consideration,7,1.5,461,99.1
+202122,Final,Academic year,National,E92000001,England,Education and Early Years,All,Not completed,4,0.9,465,100
+202223,Revised,Academic year,National,E92000001,England,Education and Early Years,All,Number of students,1025,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Education and Early Years,All,Completed,1006,98.1,1006,98.1
+202223,Revised,Academic year,National,E92000001,England,Education and Early Years,All,Completed with special consideration,13,1.3,1019,99.4
+202223,Revised,Academic year,National,E92000001,England,Education and Early Years,All,Not completed,6,0.6,1025,100
+202324,Provisional,Academic year,National,E92000001,England,Education and Early Years,All,Number of students,1533,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Education and Early Years,All,Completed,1463,95.4,1463,95.4
+202324,Provisional,Academic year,National,E92000001,England,Education and Early Years,All,Completed with special consideration,33,2.2,1496,97.6
+202324,Provisional,Academic year,National,E92000001,England,Education and Early Years,All,Not completed,37,2.4,1533,100
+202324,Provisional,Academic year,National,E92000001,England,"Engineering, Manufacturing, Processing and Control",Female,Number of students,19,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,"Engineering, Manufacturing, Processing and Control",Female,Completed,18,94.7,18,94.7
+202324,Provisional,Academic year,National,E92000001,England,"Engineering, Manufacturing, Processing and Control",Female,Completed with special consideration,1,5.3,19,100
+202324,Provisional,Academic year,National,E92000001,England,"Engineering, Manufacturing, Processing and Control",Female,Not completed,0,0,19,100
+202324,Provisional,Academic year,National,E92000001,England,"Engineering, Manufacturing, Processing and Control",Male,Number of students,154,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,"Engineering, Manufacturing, Processing and Control",Male,Completed,148,96.1,148,96.1
+202324,Provisional,Academic year,National,E92000001,England,"Engineering, Manufacturing, Processing and Control",Male,Completed with special consideration,1,0.6,149,96.8
+202324,Provisional,Academic year,National,E92000001,England,"Engineering, Manufacturing, Processing and Control",Male,Not completed,5,3.2,154,100
+202324,Provisional,Academic year,National,E92000001,England,"Engineering, Manufacturing, Processing and Control",All,Number of students,175,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,"Engineering, Manufacturing, Processing and Control",All,Completed,168,96,168,96
+202324,Provisional,Academic year,National,E92000001,England,"Engineering, Manufacturing, Processing and Control",All,Completed with special consideration,2,1.1,170,97.1
+202324,Provisional,Academic year,National,E92000001,England,"Engineering, Manufacturing, Processing and Control",All,Not completed,5,2.9,175,100
+202324,Provisional,Academic year,National,E92000001,England,Finance,Female,Number of students,11,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Finance,Female,Completed,10,90.9,10,90.9
+202324,Provisional,Academic year,National,E92000001,England,Finance,Female,Completed with special consideration,0,0,10,90.9
+202324,Provisional,Academic year,National,E92000001,England,Finance,Female,Not completed,1,9.1,11,100
+202324,Provisional,Academic year,National,E92000001,England,Finance,Male,Number of students,24,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Finance,Male,Completed,23,95.8,23,95.8
+202324,Provisional,Academic year,National,E92000001,England,Finance,Male,Completed with special consideration,0,0,23,95.8
+202324,Provisional,Academic year,National,E92000001,England,Finance,Male,Not completed,1,4.2,24,100
+202324,Provisional,Academic year,National,E92000001,England,Finance,All,Number of students,37,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Finance,All,Completed,35,94.6,35,94.6
+202324,Provisional,Academic year,National,E92000001,England,Finance,All,Completed with special consideration,0,0,35,94.6
+202324,Provisional,Academic year,National,E92000001,England,Finance,All,Not completed,2,5.4,37,100
+202223,Revised,Academic year,National,E92000001,England,Health,Female,Number of students,661,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Health,Female,Completed,643,97.3,643,97.3
+202223,Revised,Academic year,National,E92000001,England,Health,Female,Completed with special consideration,10,1.5,653,98.8
+202223,Revised,Academic year,National,E92000001,England,Health,Female,Not completed,8,1.2,661,100
+202324,Provisional,Academic year,National,E92000001,England,Health,Female,Number of students,953,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Health,Female,Completed,898,94.2,898,94.2
+202324,Provisional,Academic year,National,E92000001,England,Health,Female,Completed with special consideration,24,2.5,922,96.7
+202324,Provisional,Academic year,National,E92000001,England,Health,Female,Not completed,31,3.3,953,100
+202223,Revised,Academic year,National,E92000001,England,Health,Male,Number of students,62,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Health,Male,Completed,56,90.3,56,90.3
+202223,Revised,Academic year,National,E92000001,England,Health,Male,Completed with special consideration,3,4.8,59,95.2
+202223,Revised,Academic year,National,E92000001,England,Health,Male,Not completed,3,4.8,62,100
+202324,Provisional,Academic year,National,E92000001,England,Health,Male,Number of students,81,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Health,Male,Completed,77,95.1,77,95.1
+202324,Provisional,Academic year,National,E92000001,England,Health,Male,Completed with special consideration,1,1.2,78,96.3
+202324,Provisional,Academic year,National,E92000001,England,Health,Male,Not completed,3,3.7,81,100
+202223,Revised,Academic year,National,E92000001,England,Health,All,Number of students,725,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Health,All,Completed,701,96.7,701,96.7
+202223,Revised,Academic year,National,E92000001,England,Health,All,Completed with special consideration,13,1.8,714,98.5
+202223,Revised,Academic year,National,E92000001,England,Health,All,Not completed,11,1.5,725,100
+202324,Provisional,Academic year,National,E92000001,England,Health,All,Number of students,1044,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Health,All,Completed,984,94.3,984,94.3
+202324,Provisional,Academic year,National,E92000001,England,Health,All,Completed with special consideration,26,2.5,1010,96.7
+202324,Provisional,Academic year,National,E92000001,England,Health,All,Not completed,34,3.3,1044,100
+202223,Revised,Academic year,National,E92000001,England,Healthcare Science,Female,Number of students,24,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Healthcare Science,Female,Completed,22,91.7,22,91.7
+202223,Revised,Academic year,National,E92000001,England,Healthcare Science,Female,Completed with special consideration,1,4.2,23,95.8
+202223,Revised,Academic year,National,E92000001,England,Healthcare Science,Female,Not completed,1,4.2,24,100
+202324,Provisional,Academic year,National,E92000001,England,Healthcare Science,Female,Number of students,51,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Healthcare Science,Female,Completed,49,96.1,49,96.1
+202324,Provisional,Academic year,National,E92000001,England,Healthcare Science,Female,Completed with special consideration,1,2,50,98
+202324,Provisional,Academic year,National,E92000001,England,Healthcare Science,Female,Not completed,1,2,51,100
+202223,Revised,Academic year,National,E92000001,England,Healthcare Science,Male,Number of students,8,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Healthcare Science,Male,Completed,8,100,8,100
+202223,Revised,Academic year,National,E92000001,England,Healthcare Science,Male,Completed with special consideration,0,0,8,100
+202223,Revised,Academic year,National,E92000001,England,Healthcare Science,Male,Not completed,0,0,8,100
+202324,Provisional,Academic year,National,E92000001,England,Healthcare Science,Male,Number of students,14,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Healthcare Science,Male,Completed,14,100,14,100
+202324,Provisional,Academic year,National,E92000001,England,Healthcare Science,Male,Completed with special consideration,0,0,14,100
+202324,Provisional,Academic year,National,E92000001,England,Healthcare Science,Male,Not completed,0,0,14,100
+202223,Revised,Academic year,National,E92000001,England,Healthcare Science,All,Number of students,32,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Healthcare Science,All,Completed,30,93.8,30,93.8
+202223,Revised,Academic year,National,E92000001,England,Healthcare Science,All,Completed with special consideration,1,3.1,31,96.9
+202223,Revised,Academic year,National,E92000001,England,Healthcare Science,All,Not completed,1,3.1,32,100
+202324,Provisional,Academic year,National,E92000001,England,Healthcare Science,All,Number of students,65,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Healthcare Science,All,Completed,63,96.9,63,96.9
+202324,Provisional,Academic year,National,E92000001,England,Healthcare Science,All,Completed with special consideration,1,1.5,64,98.5
+202324,Provisional,Academic year,National,E92000001,England,Healthcare Science,All,Not completed,1,1.5,65,100
+202324,Provisional,Academic year,National,E92000001,England,"Maintenance, Installation and Repair for Engineering and Manufacturing",Female,Number of students,29,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,"Maintenance, Installation and Repair for Engineering and Manufacturing",Female,Completed,26,89.7,26,89.7
+202324,Provisional,Academic year,National,E92000001,England,"Maintenance, Installation and Repair for Engineering and Manufacturing",Female,Completed with special consideration,2,6.9,28,96.6
+202324,Provisional,Academic year,National,E92000001,England,"Maintenance, Installation and Repair for Engineering and Manufacturing",Female,Not completed,1,3.4,29,100
+202324,Provisional,Academic year,National,E92000001,England,"Maintenance, Installation and Repair for Engineering and Manufacturing",Male,Number of students,369,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,"Maintenance, Installation and Repair for Engineering and Manufacturing",Male,Completed,320,86.7,320,86.7
+202324,Provisional,Academic year,National,E92000001,England,"Maintenance, Installation and Repair for Engineering and Manufacturing",Male,Completed with special consideration,5,1.4,325,88.1
+202324,Provisional,Academic year,National,E92000001,England,"Maintenance, Installation and Repair for Engineering and Manufacturing",Male,Not completed,44,11.9,369,100
+202324,Provisional,Academic year,National,E92000001,England,"Maintenance, Installation and Repair for Engineering and Manufacturing",All,Number of students,398,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,"Maintenance, Installation and Repair for Engineering and Manufacturing",All,Completed,346,86.9,346,86.9
+202324,Provisional,Academic year,National,E92000001,England,"Maintenance, Installation and Repair for Engineering and Manufacturing",All,Completed with special consideration,7,1.8,353,88.7
+202324,Provisional,Academic year,National,E92000001,England,"Maintenance, Installation and Repair for Engineering and Manufacturing",All,Not completed,45,11.3,398,100
+202324,Provisional,Academic year,National,E92000001,England,Management and Administration,Female,Number of students,362,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Management and Administration,Female,Completed,350,96.7,350,96.7
+202324,Provisional,Academic year,National,E92000001,England,Management and Administration,Female,Completed with special consideration,6,1.7,356,98.3
+202324,Provisional,Academic year,National,E92000001,England,Management and Administration,Female,Not completed,6,1.7,362,100
+202324,Provisional,Academic year,National,E92000001,England,Management and Administration,Male,Number of students,481,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Management and Administration,Male,Completed,458,95.2,458,95.2
+202324,Provisional,Academic year,National,E92000001,England,Management and Administration,Male,Completed with special consideration,8,1.7,466,96.9
+202324,Provisional,Academic year,National,E92000001,England,Management and Administration,Male,Not completed,15,3.1,481,100
+202324,Provisional,Academic year,National,E92000001,England,Management and Administration,All,Number of students,846,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Management and Administration,All,Completed,811,95.9,811,95.9
+202324,Provisional,Academic year,National,E92000001,England,Management and Administration,All,Completed with special consideration,14,1.7,825,97.5
+202324,Provisional,Academic year,National,E92000001,England,Management and Administration,All,Not completed,21,2.5,846,100
+202223,Revised,Academic year,National,E92000001,England,Onsite Construction,Female,Number of students,1,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Onsite Construction,Female,Completed,1,100,1,100
+202223,Revised,Academic year,National,E92000001,England,Onsite Construction,Female,Completed with special consideration,0,0,1,100
+202223,Revised,Academic year,National,E92000001,England,Onsite Construction,Female,Not completed,0,0,1,100
+202324,Provisional,Academic year,National,E92000001,England,Onsite Construction,Female,Number of students,5,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Onsite Construction,Female,Completed,5,100,5,100
+202324,Provisional,Academic year,National,E92000001,England,Onsite Construction,Female,Completed with special consideration,0,0,5,100
+202324,Provisional,Academic year,National,E92000001,England,Onsite Construction,Female,Not completed,0,0,5,100
+202223,Revised,Academic year,National,E92000001,England,Onsite Construction,Male,Number of students,74,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Onsite Construction,Male,Completed,74,100,74,100
+202223,Revised,Academic year,National,E92000001,England,Onsite Construction,Male,Completed with special consideration,0,0,74,100
+202223,Revised,Academic year,National,E92000001,England,Onsite Construction,Male,Not completed,0,0,74,100
+202324,Provisional,Academic year,National,E92000001,England,Onsite Construction,Male,Number of students,133,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Onsite Construction,Male,Completed,124,93.2,124,93.2
+202324,Provisional,Academic year,National,E92000001,England,Onsite Construction,Male,Completed with special consideration,1,0.8,125,94
+202324,Provisional,Academic year,National,E92000001,England,Onsite Construction,Male,Not completed,8,6,133,100
+202223,Revised,Academic year,National,E92000001,England,Onsite Construction,All,Number of students,75,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Onsite Construction,All,Completed,75,100,75,100
+202223,Revised,Academic year,National,E92000001,England,Onsite Construction,All,Completed with special consideration,0,0,75,100
+202223,Revised,Academic year,National,E92000001,England,Onsite Construction,All,Not completed,0,0,75,100
+202324,Provisional,Academic year,National,E92000001,England,Onsite Construction,All,Number of students,138,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Onsite Construction,All,Completed,129,93.5,129,93.5
+202324,Provisional,Academic year,National,E92000001,England,Onsite Construction,All,Completed with special consideration,1,0.7,130,94.2
+202324,Provisional,Academic year,National,E92000001,England,Onsite Construction,All,Not completed,8,5.8,138,100
+202223,Revised,Academic year,National,E92000001,England,Science,Female,Number of students,52,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Science,Female,Completed,51,98.1,51,98.1
+202223,Revised,Academic year,National,E92000001,England,Science,Female,Completed with special consideration,1,1.9,52,100
+202223,Revised,Academic year,National,E92000001,England,Science,Female,Not completed,0,0,52,100
+202324,Provisional,Academic year,National,E92000001,England,Science,Female,Number of students,41,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Science,Female,Completed,34,82.9,34,82.9
+202324,Provisional,Academic year,National,E92000001,England,Science,Female,Completed with special consideration,4,9.8,38,92.7
+202324,Provisional,Academic year,National,E92000001,England,Science,Female,Not completed,3,7.3,41,100
+202223,Revised,Academic year,National,E92000001,England,Science,Male,Number of students,70,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Science,Male,Completed,66,94.3,66,94.3
+202223,Revised,Academic year,National,E92000001,England,Science,Male,Completed with special consideration,2,2.9,68,97.1
+202223,Revised,Academic year,National,E92000001,England,Science,Male,Not completed,2,2.9,70,100
+202324,Provisional,Academic year,National,E92000001,England,Science,Male,Number of students,87,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Science,Male,Completed,81,93.1,81,93.1
+202324,Provisional,Academic year,National,E92000001,England,Science,Male,Completed with special consideration,1,1.1,82,94.3
+202324,Provisional,Academic year,National,E92000001,England,Science,Male,Not completed,5,5.7,87,100
+202223,Revised,Academic year,National,E92000001,England,Science,All,Number of students,122,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Science,All,Completed,117,95.9,117,95.9
+202223,Revised,Academic year,National,E92000001,England,Science,All,Completed with special consideration,3,2.5,120,98.4
+202223,Revised,Academic year,National,E92000001,England,Science,All,Not completed,2,1.6,122,100
+202324,Provisional,Academic year,National,E92000001,England,Science,All,Number of students,128,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Science,All,Completed,115,89.8,115,89.8
+202324,Provisional,Academic year,National,E92000001,England,Science,All,Completed with special consideration,5,3.9,120,93.8
+202324,Provisional,Academic year,National,E92000001,England,Science,All,Not completed,8,6.3,128,100
+202122,Final,Academic year,National,E92000001,England,Total,Female,Number of students,503,z,z,z
+202122,Final,Academic year,National,E92000001,England,Total,Female,Completed,491,97.6,491,97.6
+202122,Final,Academic year,National,E92000001,England,Total,Female,Completed with special consideration,9,1.8,500,99.4
+202122,Final,Academic year,National,E92000001,England,Total,Female,Not completed,3,0.6,503,100
+202223,Revised,Academic year,National,E92000001,England,Total,Female,Number of students,1859,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Total,Female,Completed,1811,97.4,1811,97.4
+202223,Revised,Academic year,National,E92000001,England,Total,Female,Completed with special consideration,27,1.5,1838,98.9
+202223,Revised,Academic year,National,E92000001,England,Total,Female,Not completed,21,1.1,1859,100
+202324,Provisional,Academic year,National,E92000001,England,Total,Female,Number of students,3227,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Total,Female,Completed,3050,94.5,3050,94.5
+202324,Provisional,Academic year,National,E92000001,England,Total,Female,Completed with special consideration,76,2.4,3126,96.9
+202324,Provisional,Academic year,National,E92000001,England,Total,Female,Not completed,101,3.1,3227,100
+202122,Final,Academic year,National,E92000001,England,Total,Male,Number of students,490,z,z,z
+202122,Final,Academic year,National,E92000001,England,Total,Male,Completed,463,94.5,463,94.5
+202122,Final,Academic year,National,E92000001,England,Total,Male,Completed with special consideration,15,3.1,478,97.6
+202122,Final,Academic year,National,E92000001,England,Total,Male,Not completed,12,2.4,490,100
+202223,Revised,Academic year,National,E92000001,England,Total,Male,Number of students,1677,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Total,Male,Completed,1579,94.2,1579,94.2
+202223,Revised,Academic year,National,E92000001,England,Total,Male,Completed with special consideration,32,1.9,1611,96.1
+202223,Revised,Academic year,National,E92000001,England,Total,Male,Not completed,66,3.9,1677,100
+202324,Provisional,Academic year,National,E92000001,England,Total,Male,Number of students,4116,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Total,Male,Completed,3795,92.2,3795,92.2
+202324,Provisional,Academic year,National,E92000001,England,Total,Male,Completed with special consideration,63,1.5,3858,93.7
+202324,Provisional,Academic year,National,E92000001,England,Total,Male,Not completed,258,6.3,4116,100
+202122,Final,Academic year,National,E92000001,England,Total,All,Number of students,996,z,z,z
+202122,Final,Academic year,National,E92000001,England,Total,All,Completed,957,96.1,957,96.1
+202122,Final,Academic year,National,E92000001,England,Total,All,Completed with special consideration,24,2.4,981,98.5
+202122,Final,Academic year,National,E92000001,England,Total,All,Not completed,15,1.5,996,100
+202223,Revised,Academic year,National,E92000001,England,Total,All,Number of students,3559,z,z,z
+202223,Revised,Academic year,National,E92000001,England,Total,All,Completed,3412,95.9,3412,95.9
+202223,Revised,Academic year,National,E92000001,England,Total,All,Completed with special consideration,59,1.7,3471,97.5
+202223,Revised,Academic year,National,E92000001,England,Total,All,Not completed,88,2.5,3559,100
+202324,Provisional,Academic year,National,E92000001,England,Total,All,Number of students,7380,z,z,z
+202324,Provisional,Academic year,National,E92000001,England,Total,All,Completed,6879,93.2,6879,93.2
+202324,Provisional,Academic year,National,E92000001,England,Total,All,Completed with special consideration,141,1.9,7020,95.1
+202324,Provisional,Academic year,National,E92000001,England,Total,All,Not completed,360,4.9,7380,100

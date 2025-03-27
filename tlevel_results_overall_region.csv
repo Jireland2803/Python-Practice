@@ -1,0 +1,289 @@
+time_period,data_version,time_identifier,geographic_level,country_code,country_name,region_code,region_name,tlevel_pathway,number_of_students
+202122,Final,Academic year,Regional,E92000001,England,E12000004,East Midlands,"Design, Surveying and Planning",7
+202122,Final,Academic year,Regional,E92000001,England,E12000006,East of England,"Design, Surveying and Planning",27
+202122,Final,Academic year,Regional,E92000001,England,E12000007,London,"Design, Surveying and Planning",0
+202122,Final,Academic year,Regional,E92000001,England,E12000001,North East,"Design, Surveying and Planning",4
+202122,Final,Academic year,Regional,E92000001,England,E12000002,North West,"Design, Surveying and Planning",12
+202122,Final,Academic year,Regional,E92000001,England,E12000008,South East,"Design, Surveying and Planning",37
+202122,Final,Academic year,Regional,E92000001,England,E12000009,South West,"Design, Surveying and Planning",46
+202122,Final,Academic year,Regional,E92000001,England,E12000005,West Midlands,"Design, Surveying and Planning",34
+202122,Final,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,"Design, Surveying and Planning",33
+202122,Final,Academic year,Regional,E92000001,England,E12000004,East Midlands,"Digital Production, Design and Development",8
+202122,Final,Academic year,Regional,E92000001,England,E12000006,East of England,"Digital Production, Design and Development",21
+202122,Final,Academic year,Regional,E92000001,England,E12000007,London,"Digital Production, Design and Development",34
+202122,Final,Academic year,Regional,E92000001,England,E12000001,North East,"Digital Production, Design and Development",25
+202122,Final,Academic year,Regional,E92000001,England,E12000002,North West,"Digital Production, Design and Development",52
+202122,Final,Academic year,Regional,E92000001,England,E12000008,South East,"Digital Production, Design and Development",56
+202122,Final,Academic year,Regional,E92000001,England,E12000009,South West,"Digital Production, Design and Development",54
+202122,Final,Academic year,Regional,E92000001,England,E12000005,West Midlands,"Digital Production, Design and Development",31
+202122,Final,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,"Digital Production, Design and Development",50
+202122,Final,Academic year,Regional,E92000001,England,E12000004,East Midlands,Education and Early Years,10
+202122,Final,Academic year,Regional,E92000001,England,E12000006,East of England,Education and Early Years,50
+202122,Final,Academic year,Regional,E92000001,England,E12000007,London,Education and Early Years,40
+202122,Final,Academic year,Regional,E92000001,England,E12000001,North East,Education and Early Years,21
+202122,Final,Academic year,Regional,E92000001,England,E12000002,North West,Education and Early Years,70
+202122,Final,Academic year,Regional,E92000001,England,E12000008,South East,Education and Early Years,121
+202122,Final,Academic year,Regional,E92000001,England,E12000009,South West,Education and Early Years,71
+202122,Final,Academic year,Regional,E92000001,England,E12000005,West Midlands,Education and Early Years,25
+202122,Final,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Education and Early Years,57
+202122,Final,Academic year,Regional,E92000001,England,E12000004,East Midlands,Total,25
+202122,Final,Academic year,Regional,E92000001,England,E12000006,East of England,Total,98
+202122,Final,Academic year,Regional,E92000001,England,E12000007,London,Total,74
+202122,Final,Academic year,Regional,E92000001,England,E12000001,North East,Total,50
+202122,Final,Academic year,Regional,E92000001,England,E12000002,North West,Total,134
+202122,Final,Academic year,Regional,E92000001,England,E12000008,South East,Total,214
+202122,Final,Academic year,Regional,E92000001,England,E12000009,South West,Total,171
+202122,Final,Academic year,Regional,E92000001,England,E12000005,West Midlands,Total,90
+202122,Final,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Total,140
+202223,Revised,Academic year,Regional,E92000001,England,E12000004,East Midlands,Building Services Engineering,48
+202223,Revised,Academic year,Regional,E92000001,England,E12000006,East of England,Building Services Engineering,2
+202223,Revised,Academic year,Regional,E92000001,England,E12000007,London,Building Services Engineering,20
+202223,Revised,Academic year,Regional,E92000001,England,E12000001,North East,Building Services Engineering,20
+202223,Revised,Academic year,Regional,E92000001,England,E12000002,North West,Building Services Engineering,75
+202223,Revised,Academic year,Regional,E92000001,England,E12000008,South East,Building Services Engineering,22
+202223,Revised,Academic year,Regional,E92000001,England,E12000009,South West,Building Services Engineering,13
+202223,Revised,Academic year,Regional,E92000001,England,E12000005,West Midlands,Building Services Engineering,8
+202223,Revised,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Building Services Engineering,0
+202223,Revised,Academic year,Regional,E92000001,England,E12000004,East Midlands,"Design, Surveying and Planning",28
+202223,Revised,Academic year,Regional,E92000001,England,E12000006,East of England,"Design, Surveying and Planning",46
+202223,Revised,Academic year,Regional,E92000001,England,E12000007,London,"Design, Surveying and Planning",25
+202223,Revised,Academic year,Regional,E92000001,England,E12000001,North East,"Design, Surveying and Planning",25
+202223,Revised,Academic year,Regional,E92000001,England,E12000002,North West,"Design, Surveying and Planning",103
+202223,Revised,Academic year,Regional,E92000001,England,E12000008,South East,"Design, Surveying and Planning",54
+202223,Revised,Academic year,Regional,E92000001,England,E12000009,South West,"Design, Surveying and Planning",73
+202223,Revised,Academic year,Regional,E92000001,England,E12000005,West Midlands,"Design, Surveying and Planning",47
+202223,Revised,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,"Design, Surveying and Planning",43
+202223,Revised,Academic year,Regional,E92000001,England,E12000004,East Midlands,Digital Business Services,0
+202223,Revised,Academic year,Regional,E92000001,England,E12000006,East of England,Digital Business Services,0
+202223,Revised,Academic year,Regional,E92000001,England,E12000007,London,Digital Business Services,16
+202223,Revised,Academic year,Regional,E92000001,England,E12000001,North East,Digital Business Services,0
+202223,Revised,Academic year,Regional,E92000001,England,E12000002,North West,Digital Business Services,12
+202223,Revised,Academic year,Regional,E92000001,England,E12000008,South East,Digital Business Services,7
+202223,Revised,Academic year,Regional,E92000001,England,E12000009,South West,Digital Business Services,2
+202223,Revised,Academic year,Regional,E92000001,England,E12000005,West Midlands,Digital Business Services,0
+202223,Revised,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Digital Business Services,6
+202223,Revised,Academic year,Regional,E92000001,England,E12000004,East Midlands,"Digital Production, Design and Development",40
+202223,Revised,Academic year,Regional,E92000001,England,E12000006,East of England,"Digital Production, Design and Development",28
+202223,Revised,Academic year,Regional,E92000001,England,E12000007,London,"Digital Production, Design and Development",53
+202223,Revised,Academic year,Regional,E92000001,England,E12000001,North East,"Digital Production, Design and Development",35
+202223,Revised,Academic year,Regional,E92000001,England,E12000002,North West,"Digital Production, Design and Development",95
+202223,Revised,Academic year,Regional,E92000001,England,E12000008,South East,"Digital Production, Design and Development",155
+202223,Revised,Academic year,Regional,E92000001,England,E12000009,South West,"Digital Production, Design and Development",130
+202223,Revised,Academic year,Regional,E92000001,England,E12000005,West Midlands,"Digital Production, Design and Development",65
+202223,Revised,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,"Digital Production, Design and Development",93
+202223,Revised,Academic year,Regional,E92000001,England,E12000004,East Midlands,Digital Support Services,26
+202223,Revised,Academic year,Regional,E92000001,England,E12000006,East of England,Digital Support Services,21
+202223,Revised,Academic year,Regional,E92000001,England,E12000007,London,Digital Support Services,0
+202223,Revised,Academic year,Regional,E92000001,England,E12000001,North East,Digital Support Services,6
+202223,Revised,Academic year,Regional,E92000001,England,E12000002,North West,Digital Support Services,33
+202223,Revised,Academic year,Regional,E92000001,England,E12000008,South East,Digital Support Services,46
+202223,Revised,Academic year,Regional,E92000001,England,E12000009,South West,Digital Support Services,36
+202223,Revised,Academic year,Regional,E92000001,England,E12000005,West Midlands,Digital Support Services,17
+202223,Revised,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Digital Support Services,6
+202223,Revised,Academic year,Regional,E92000001,England,E12000004,East Midlands,Education and Early Years,61
+202223,Revised,Academic year,Regional,E92000001,England,E12000006,East of England,Education and Early Years,84
+202223,Revised,Academic year,Regional,E92000001,England,E12000007,London,Education and Early Years,73
+202223,Revised,Academic year,Regional,E92000001,England,E12000001,North East,Education and Early Years,46
+202223,Revised,Academic year,Regional,E92000001,England,E12000002,North West,Education and Early Years,150
+202223,Revised,Academic year,Regional,E92000001,England,E12000008,South East,Education and Early Years,166
+202223,Revised,Academic year,Regional,E92000001,England,E12000009,South West,Education and Early Years,181
+202223,Revised,Academic year,Regional,E92000001,England,E12000005,West Midlands,Education and Early Years,98
+202223,Revised,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Education and Early Years,166
+202223,Revised,Academic year,Regional,E92000001,England,E12000004,East Midlands,Health,49
+202223,Revised,Academic year,Regional,E92000001,England,E12000006,East of England,Health,20
+202223,Revised,Academic year,Regional,E92000001,England,E12000007,London,Health,6
+202223,Revised,Academic year,Regional,E92000001,England,E12000001,North East,Health,47
+202223,Revised,Academic year,Regional,E92000001,England,E12000002,North West,Health,193
+202223,Revised,Academic year,Regional,E92000001,England,E12000008,South East,Health,121
+202223,Revised,Academic year,Regional,E92000001,England,E12000009,South West,Health,146
+202223,Revised,Academic year,Regional,E92000001,England,E12000005,West Midlands,Health,40
+202223,Revised,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Health,103
+202223,Revised,Academic year,Regional,E92000001,England,E12000004,East Midlands,Healthcare Science,0
+202223,Revised,Academic year,Regional,E92000001,England,E12000006,East of England,Healthcare Science,5
+202223,Revised,Academic year,Regional,E92000001,England,E12000007,London,Healthcare Science,0
+202223,Revised,Academic year,Regional,E92000001,England,E12000001,North East,Healthcare Science,0
+202223,Revised,Academic year,Regional,E92000001,England,E12000002,North West,Healthcare Science,15
+202223,Revised,Academic year,Regional,E92000001,England,E12000008,South East,Healthcare Science,6
+202223,Revised,Academic year,Regional,E92000001,England,E12000009,South West,Healthcare Science,0
+202223,Revised,Academic year,Regional,E92000001,England,E12000005,West Midlands,Healthcare Science,6
+202223,Revised,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Healthcare Science,0
+202223,Revised,Academic year,Regional,E92000001,England,E12000004,East Midlands,Onsite Construction,24
+202223,Revised,Academic year,Regional,E92000001,England,E12000006,East of England,Onsite Construction,14
+202223,Revised,Academic year,Regional,E92000001,England,E12000007,London,Onsite Construction,0
+202223,Revised,Academic year,Regional,E92000001,England,E12000001,North East,Onsite Construction,5
+202223,Revised,Academic year,Regional,E92000001,England,E12000002,North West,Onsite Construction,6
+202223,Revised,Academic year,Regional,E92000001,England,E12000008,South East,Onsite Construction,14
+202223,Revised,Academic year,Regional,E92000001,England,E12000009,South West,Onsite Construction,12
+202223,Revised,Academic year,Regional,E92000001,England,E12000005,West Midlands,Onsite Construction,0
+202223,Revised,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Onsite Construction,0
+202223,Revised,Academic year,Regional,E92000001,England,E12000004,East Midlands,Science,24
+202223,Revised,Academic year,Regional,E92000001,England,E12000006,East of England,Science,6
+202223,Revised,Academic year,Regional,E92000001,England,E12000007,London,Science,13
+202223,Revised,Academic year,Regional,E92000001,England,E12000001,North East,Science,0
+202223,Revised,Academic year,Regional,E92000001,England,E12000002,North West,Science,19
+202223,Revised,Academic year,Regional,E92000001,England,E12000008,South East,Science,30
+202223,Revised,Academic year,Regional,E92000001,England,E12000009,South West,Science,16
+202223,Revised,Academic year,Regional,E92000001,England,E12000005,West Midlands,Science,10
+202223,Revised,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Science,4
+202223,Revised,Academic year,Regional,E92000001,England,E12000004,East Midlands,Total,300
+202223,Revised,Academic year,Regional,E92000001,England,E12000006,East of England,Total,226
+202223,Revised,Academic year,Regional,E92000001,England,E12000007,London,Total,206
+202223,Revised,Academic year,Regional,E92000001,England,E12000001,North East,Total,184
+202223,Revised,Academic year,Regional,E92000001,England,E12000002,North West,Total,701
+202223,Revised,Academic year,Regional,E92000001,England,E12000008,South East,Total,621
+202223,Revised,Academic year,Regional,E92000001,England,E12000009,South West,Total,609
+202223,Revised,Academic year,Regional,E92000001,England,E12000005,West Midlands,Total,291
+202223,Revised,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Total,421
+202324,Provisional,Academic year,Regional,E92000001,England,E12000004,East Midlands,Accounting,0
+202324,Provisional,Academic year,Regional,E92000001,England,E12000006,East of England,Accounting,8
+202324,Provisional,Academic year,Regional,E92000001,England,E12000007,London,Accounting,0
+202324,Provisional,Academic year,Regional,E92000001,England,E12000001,North East,Accounting,0
+202324,Provisional,Academic year,Regional,E92000001,England,E12000002,North West,Accounting,0
+202324,Provisional,Academic year,Regional,E92000001,England,E12000008,South East,Accounting,32
+202324,Provisional,Academic year,Regional,E92000001,England,E12000009,South West,Accounting,24
+202324,Provisional,Academic year,Regional,E92000001,England,E12000005,West Midlands,Accounting,6
+202324,Provisional,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Accounting,24
+202324,Provisional,Academic year,Regional,E92000001,England,E12000004,East Midlands,Building Services Engineering,62
+202324,Provisional,Academic year,Regional,E92000001,England,E12000006,East of England,Building Services Engineering,3
+202324,Provisional,Academic year,Regional,E92000001,England,E12000007,London,Building Services Engineering,16
+202324,Provisional,Academic year,Regional,E92000001,England,E12000001,North East,Building Services Engineering,22
+202324,Provisional,Academic year,Regional,E92000001,England,E12000002,North West,Building Services Engineering,89
+202324,Provisional,Academic year,Regional,E92000001,England,E12000008,South East,Building Services Engineering,41
+202324,Provisional,Academic year,Regional,E92000001,England,E12000009,South West,Building Services Engineering,21
+202324,Provisional,Academic year,Regional,E92000001,England,E12000005,West Midlands,Building Services Engineering,8
+202324,Provisional,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Building Services Engineering,56
+202324,Provisional,Academic year,Regional,E92000001,England,E12000004,East Midlands,Design and Development for Engineering and Manufacturing,44
+202324,Provisional,Academic year,Regional,E92000001,England,E12000006,East of England,Design and Development for Engineering and Manufacturing,13
+202324,Provisional,Academic year,Regional,E92000001,England,E12000007,London,Design and Development for Engineering and Manufacturing,37
+202324,Provisional,Academic year,Regional,E92000001,England,E12000001,North East,Design and Development for Engineering and Manufacturing,28
+202324,Provisional,Academic year,Regional,E92000001,England,E12000002,North West,Design and Development for Engineering and Manufacturing,140
+202324,Provisional,Academic year,Regional,E92000001,England,E12000008,South East,Design and Development for Engineering and Manufacturing,151
+202324,Provisional,Academic year,Regional,E92000001,England,E12000009,South West,Design and Development for Engineering and Manufacturing,54
+202324,Provisional,Academic year,Regional,E92000001,England,E12000005,West Midlands,Design and Development for Engineering and Manufacturing,64
+202324,Provisional,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Design and Development for Engineering and Manufacturing,24
+202324,Provisional,Academic year,Regional,E92000001,England,E12000004,East Midlands,"Design, Surveying and Planning",14
+202324,Provisional,Academic year,Regional,E92000001,England,E12000006,East of England,"Design, Surveying and Planning",63
+202324,Provisional,Academic year,Regional,E92000001,England,E12000007,London,"Design, Surveying and Planning",34
+202324,Provisional,Academic year,Regional,E92000001,England,E12000001,North East,"Design, Surveying and Planning",47
+202324,Provisional,Academic year,Regional,E92000001,England,E12000002,North West,"Design, Surveying and Planning",207
+202324,Provisional,Academic year,Regional,E92000001,England,E12000008,South East,"Design, Surveying and Planning",117
+202324,Provisional,Academic year,Regional,E92000001,England,E12000009,South West,"Design, Surveying and Planning",67
+202324,Provisional,Academic year,Regional,E92000001,England,E12000005,West Midlands,"Design, Surveying and Planning",72
+202324,Provisional,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,"Design, Surveying and Planning",65
+202324,Provisional,Academic year,Regional,E92000001,England,E12000004,East Midlands,Digital Business Services,12
+202324,Provisional,Academic year,Regional,E92000001,England,E12000006,East of England,Digital Business Services,2
+202324,Provisional,Academic year,Regional,E92000001,England,E12000007,London,Digital Business Services,8
+202324,Provisional,Academic year,Regional,E92000001,England,E12000001,North East,Digital Business Services,0
+202324,Provisional,Academic year,Regional,E92000001,England,E12000002,North West,Digital Business Services,9
+202324,Provisional,Academic year,Regional,E92000001,England,E12000008,South East,Digital Business Services,2
+202324,Provisional,Academic year,Regional,E92000001,England,E12000009,South West,Digital Business Services,0
+202324,Provisional,Academic year,Regional,E92000001,England,E12000005,West Midlands,Digital Business Services,0
+202324,Provisional,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Digital Business Services,2
+202324,Provisional,Academic year,Regional,E92000001,England,E12000004,East Midlands,"Digital Production, Design and Development",56
+202324,Provisional,Academic year,Regional,E92000001,England,E12000006,East of England,"Digital Production, Design and Development",60
+202324,Provisional,Academic year,Regional,E92000001,England,E12000007,London,"Digital Production, Design and Development",61
+202324,Provisional,Academic year,Regional,E92000001,England,E12000001,North East,"Digital Production, Design and Development",49
+202324,Provisional,Academic year,Regional,E92000001,England,E12000002,North West,"Digital Production, Design and Development",174
+202324,Provisional,Academic year,Regional,E92000001,England,E12000008,South East,"Digital Production, Design and Development",212
+202324,Provisional,Academic year,Regional,E92000001,England,E12000009,South West,"Digital Production, Design and Development",188
+202324,Provisional,Academic year,Regional,E92000001,England,E12000005,West Midlands,"Digital Production, Design and Development",143
+202324,Provisional,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,"Digital Production, Design and Development",91
+202324,Provisional,Academic year,Regional,E92000001,England,E12000004,East Midlands,Digital Support Services,31
+202324,Provisional,Academic year,Regional,E92000001,England,E12000006,East of England,Digital Support Services,31
+202324,Provisional,Academic year,Regional,E92000001,England,E12000007,London,Digital Support Services,0
+202324,Provisional,Academic year,Regional,E92000001,England,E12000001,North East,Digital Support Services,18
+202324,Provisional,Academic year,Regional,E92000001,England,E12000002,North West,Digital Support Services,48
+202324,Provisional,Academic year,Regional,E92000001,England,E12000008,South East,Digital Support Services,41
+202324,Provisional,Academic year,Regional,E92000001,England,E12000009,South West,Digital Support Services,49
+202324,Provisional,Academic year,Regional,E92000001,England,E12000005,West Midlands,Digital Support Services,42
+202324,Provisional,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Digital Support Services,34
+202324,Provisional,Academic year,Regional,E92000001,England,E12000004,East Midlands,Education and Early Years,94
+202324,Provisional,Academic year,Regional,E92000001,England,E12000006,East of England,Education and Early Years,124
+202324,Provisional,Academic year,Regional,E92000001,England,E12000007,London,Education and Early Years,62
+202324,Provisional,Academic year,Regional,E92000001,England,E12000001,North East,Education and Early Years,142
+202324,Provisional,Academic year,Regional,E92000001,England,E12000002,North West,Education and Early Years,248
+202324,Provisional,Academic year,Regional,E92000001,England,E12000008,South East,Education and Early Years,250
+202324,Provisional,Academic year,Regional,E92000001,England,E12000009,South West,Education and Early Years,199
+202324,Provisional,Academic year,Regional,E92000001,England,E12000005,West Midlands,Education and Early Years,188
+202324,Provisional,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Education and Early Years,226
+202324,Provisional,Academic year,Regional,E92000001,England,E12000004,East Midlands,"Engineering, Manufacturing, Processing and Control",17
+202324,Provisional,Academic year,Regional,E92000001,England,E12000006,East of England,"Engineering, Manufacturing, Processing and Control",0
+202324,Provisional,Academic year,Regional,E92000001,England,E12000007,London,"Engineering, Manufacturing, Processing and Control",0
+202324,Provisional,Academic year,Regional,E92000001,England,E12000001,North East,"Engineering, Manufacturing, Processing and Control",13
+202324,Provisional,Academic year,Regional,E92000001,England,E12000002,North West,"Engineering, Manufacturing, Processing and Control",28
+202324,Provisional,Academic year,Regional,E92000001,England,E12000008,South East,"Engineering, Manufacturing, Processing and Control",40
+202324,Provisional,Academic year,Regional,E92000001,England,E12000009,South West,"Engineering, Manufacturing, Processing and Control",36
+202324,Provisional,Academic year,Regional,E92000001,England,E12000005,West Midlands,"Engineering, Manufacturing, Processing and Control",14
+202324,Provisional,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,"Engineering, Manufacturing, Processing and Control",27
+202324,Provisional,Academic year,Regional,E92000001,England,E12000004,East Midlands,Finance,0
+202324,Provisional,Academic year,Regional,E92000001,England,E12000006,East of England,Finance,0
+202324,Provisional,Academic year,Regional,E92000001,England,E12000007,London,Finance,18
+202324,Provisional,Academic year,Regional,E92000001,England,E12000001,North East,Finance,0
+202324,Provisional,Academic year,Regional,E92000001,England,E12000002,North West,Finance,0
+202324,Provisional,Academic year,Regional,E92000001,England,E12000008,South East,Finance,6
+202324,Provisional,Academic year,Regional,E92000001,England,E12000009,South West,Finance,8
+202324,Provisional,Academic year,Regional,E92000001,England,E12000005,West Midlands,Finance,5
+202324,Provisional,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Finance,0
+202324,Provisional,Academic year,Regional,E92000001,England,E12000004,East Midlands,Health,71
+202324,Provisional,Academic year,Regional,E92000001,England,E12000006,East of England,Health,64
+202324,Provisional,Academic year,Regional,E92000001,England,E12000007,London,Health,100
+202324,Provisional,Academic year,Regional,E92000001,England,E12000001,North East,Health,56
+202324,Provisional,Academic year,Regional,E92000001,England,E12000002,North West,Health,199
+202324,Provisional,Academic year,Regional,E92000001,England,E12000008,South East,Health,193
+202324,Provisional,Academic year,Regional,E92000001,England,E12000009,South West,Health,125
+202324,Provisional,Academic year,Regional,E92000001,England,E12000005,West Midlands,Health,117
+202324,Provisional,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Health,119
+202324,Provisional,Academic year,Regional,E92000001,England,E12000004,East Midlands,Healthcare Science,0
+202324,Provisional,Academic year,Regional,E92000001,England,E12000006,East of England,Healthcare Science,14
+202324,Provisional,Academic year,Regional,E92000001,England,E12000007,London,Healthcare Science,21
+202324,Provisional,Academic year,Regional,E92000001,England,E12000001,North East,Healthcare Science,0
+202324,Provisional,Academic year,Regional,E92000001,England,E12000002,North West,Healthcare Science,21
+202324,Provisional,Academic year,Regional,E92000001,England,E12000008,South East,Healthcare Science,4
+202324,Provisional,Academic year,Regional,E92000001,England,E12000009,South West,Healthcare Science,5
+202324,Provisional,Academic year,Regional,E92000001,England,E12000005,West Midlands,Healthcare Science,0
+202324,Provisional,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Healthcare Science,0
+202324,Provisional,Academic year,Regional,E92000001,England,E12000004,East Midlands,"Maintenance, Installation and Repair for Engineering and Manufacturing",4
+202324,Provisional,Academic year,Regional,E92000001,England,E12000006,East of England,"Maintenance, Installation and Repair for Engineering and Manufacturing",99
+202324,Provisional,Academic year,Regional,E92000001,England,E12000007,London,"Maintenance, Installation and Repair for Engineering and Manufacturing",28
+202324,Provisional,Academic year,Regional,E92000001,England,E12000001,North East,"Maintenance, Installation and Repair for Engineering and Manufacturing",80
+202324,Provisional,Academic year,Regional,E92000001,England,E12000002,North West,"Maintenance, Installation and Repair for Engineering and Manufacturing",58
+202324,Provisional,Academic year,Regional,E92000001,England,E12000008,South East,"Maintenance, Installation and Repair for Engineering and Manufacturing",18
+202324,Provisional,Academic year,Regional,E92000001,England,E12000009,South West,"Maintenance, Installation and Repair for Engineering and Manufacturing",25
+202324,Provisional,Academic year,Regional,E92000001,England,E12000005,West Midlands,"Maintenance, Installation and Repair for Engineering and Manufacturing",36
+202324,Provisional,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,"Maintenance, Installation and Repair for Engineering and Manufacturing",50
+202324,Provisional,Academic year,Regional,E92000001,England,E12000004,East Midlands,Management and Administration,74
+202324,Provisional,Academic year,Regional,E92000001,England,E12000006,East of England,Management and Administration,69
+202324,Provisional,Academic year,Regional,E92000001,England,E12000007,London,Management and Administration,94
+202324,Provisional,Academic year,Regional,E92000001,England,E12000001,North East,Management and Administration,10
+202324,Provisional,Academic year,Regional,E92000001,England,E12000002,North West,Management and Administration,189
+202324,Provisional,Academic year,Regional,E92000001,England,E12000008,South East,Management and Administration,173
+202324,Provisional,Academic year,Regional,E92000001,England,E12000009,South West,Management and Administration,148
+202324,Provisional,Academic year,Regional,E92000001,England,E12000005,West Midlands,Management and Administration,15
+202324,Provisional,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Management and Administration,74
+202324,Provisional,Academic year,Regional,E92000001,England,E12000004,East Midlands,Onsite Construction,21
+202324,Provisional,Academic year,Regional,E92000001,England,E12000006,East of England,Onsite Construction,18
+202324,Provisional,Academic year,Regional,E92000001,England,E12000007,London,Onsite Construction,0
+202324,Provisional,Academic year,Regional,E92000001,England,E12000001,North East,Onsite Construction,10
+202324,Provisional,Academic year,Regional,E92000001,England,E12000002,North West,Onsite Construction,32
+202324,Provisional,Academic year,Regional,E92000001,England,E12000008,South East,Onsite Construction,17
+202324,Provisional,Academic year,Regional,E92000001,England,E12000009,South West,Onsite Construction,3
+202324,Provisional,Academic year,Regional,E92000001,England,E12000005,West Midlands,Onsite Construction,10
+202324,Provisional,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Onsite Construction,27
+202324,Provisional,Academic year,Regional,E92000001,England,E12000004,East Midlands,Science,9
+202324,Provisional,Academic year,Regional,E92000001,England,E12000006,East of England,Science,20
+202324,Provisional,Academic year,Regional,E92000001,England,E12000007,London,Science,17
+202324,Provisional,Academic year,Regional,E92000001,England,E12000001,North East,Science,5
+202324,Provisional,Academic year,Regional,E92000001,England,E12000002,North West,Science,16
+202324,Provisional,Academic year,Regional,E92000001,England,E12000008,South East,Science,34
+202324,Provisional,Academic year,Regional,E92000001,England,E12000009,South West,Science,20
+202324,Provisional,Academic year,Regional,E92000001,England,E12000005,West Midlands,Science,7
+202324,Provisional,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Science,0
+202324,Provisional,Academic year,Regional,E92000001,England,E12000004,East Midlands,Total,509
+202324,Provisional,Academic year,Regional,E92000001,England,E12000006,East of England,Total,588
+202324,Provisional,Academic year,Regional,E92000001,England,E12000007,London,Total,496
+202324,Provisional,Academic year,Regional,E92000001,England,E12000001,North East,Total,480
+202324,Provisional,Academic year,Regional,E92000001,England,E12000002,North West,Total,1458
+202324,Provisional,Academic year,Regional,E92000001,England,E12000008,South East,Total,1331
+202324,Provisional,Academic year,Regional,E92000001,England,E12000009,South West,Total,972
+202324,Provisional,Academic year,Regional,E92000001,England,E12000005,West Midlands,Total,727
+202324,Provisional,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Total,819
