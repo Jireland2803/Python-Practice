@@ -35,6 +35,7 @@ plt.show()
 
 file = pd.read_csv('tlevel_results_core.csv')
 filtered_file = file[file['count'] != 'z']
+filtered_file = filtered_file[filtered_file['grade'] != 'Number of students']
 convert_count = {'grade': str, 'count': int}
 filtered_file = filtered_file.astype(convert_count)
 count_graph = filtered_file.groupby('grade')['count'].mean()
