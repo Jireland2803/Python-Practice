@@ -15,6 +15,7 @@ avg_percent.plot(kind='bar', color='skyblue')  # Plot as a bar chart
 plt.title('Average achievement rate per grade')
 plt.xlabel('Grade')
 plt.ylabel('Percentage(%)')
+plt.savefig('Graphs/Average Achievement Rate Per Grade.png')
 plt.show()
 
 
@@ -28,6 +29,7 @@ avg_percent.plot(kind='bar', color='red')
 plt.title('Average achievement rate per grade for males')
 plt.xlabel('Grade')
 plt.ylabel('Percentage(%)')
+plt.savefig('Graphs/Male Average Achievement Rates.png')
 plt.show()
 
 
@@ -40,4 +42,5 @@ count_graph.plot(kind='line', color='green')
 plt.title('Average number of students that achieved each grade')
 plt.xlabel('Grade')
 plt.ylabel('Number of Students')
+plt.savefig('Graphs/Average Number of Students Per Grade.png')
 plt.show()
