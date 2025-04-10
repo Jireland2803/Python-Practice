@@ -45,3 +45,19 @@ plt.xlabel('Grade')
 plt.ylabel('Number of Students')
 plt.savefig('Graphs/Average Number of Students Per Grade.png')
 plt.show()
+
+
+file = pd.read_csv('tlevel_results_core.csv')
+filtered_file = file[file['core_component'] == 'Digital Production, Design and Development']
+filtered_file = filtered_file[filtered_file['sex'] == 'All']
+filtered_file = filtered_file[filtered_file['grade'] != 'Number of students']
+filtered_file = filtered_file[filtered_file['grade'] != 'D']
+filtered_file = filtered_file[filtered_file['grade'] != 'E']
+filtered_file = filtered_file[filtered_file['grade'] != 'Unclassified']
+graph = filtered_file.groupby('time_period')['count'].sum()
+graph.plot(kind='line', color='purple')
+plt.title('Filtering by component')
+plt.xlabel('Grade')
+plt.ylabel('Number of Students')
+print(graph)
+plt.show()
