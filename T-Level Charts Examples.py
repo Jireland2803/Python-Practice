@@ -155,3 +155,15 @@ plt.savefig('Graphs/All Six Graphs on the Same Plot')
 
 
 plt.show()
+
+fig, axes = plt.subplots()
+dpdd_graph.plot(ax=axes, label = 'DPDD')
+dsp_graph.plot(ax=axes, label = 'DSP')
+eey_graph.plot(ax=axes, label = 'EEY')
+bse_graph.plot(ax=axes, label = 'BSE')
+dbs_graph.plot(ax=axes, label = 'DBS')
+dss_graph.plot(ax=axes, label = 'DSS')
+plt.legend()
+plt.savefig('Graphs/All Six Graphs on a single axis')
+
+plt.show()
